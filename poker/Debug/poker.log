@@ -1,0 +1,5 @@
+﻿  poker.cpp
+d:\programs\visual studio projects\poker.sol\poker\poker.cpp(57): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\programs\visual studio projects\poker.sol\poker\poker.cpp(59): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\programs\visual studio projects\poker.sol\poker\poker.cpp(61): warning C4390: ';': empty controlled statement found; is this the intent?
+  poker.vcxproj -> D:\Programs\Visual studio projects\poker.sol\Debug\poker.exe
